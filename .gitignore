@@ -1,0 +1,9 @@
+resources/public/js
+resources/private/js
+out/
+repl/
+target/
+.lein*
+.nrepl*
+/bin/
+.settings/
